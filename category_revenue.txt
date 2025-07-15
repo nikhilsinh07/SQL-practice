@@ -1,0 +1,9 @@
+index,categoryname,net_revenue
+0,Audio,5312898.102378262
+1,Cameras and camcorders ,18520360.659611188
+2,Cell phones,32624265.71709826
+3,Computers,90619022.05213447
+4,Games and Toys,1668574.1346866025
+5,Home Appliances,26607245.535542034
+6,"Music, Movies and Audio Books",10588310.99557953
+7,TV and Video,20466861.38303514
